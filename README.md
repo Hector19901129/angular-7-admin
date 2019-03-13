@@ -1,8 +1,5 @@
 # Admin template based on Angular 7+, Bootstrap 4
 
-#### Corporate
-<img src="src/view.png"/></a>
-
 ### What's included:
 
 - Angular 7+ & Typescript
